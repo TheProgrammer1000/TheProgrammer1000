@@ -1,10 +1,13 @@
-### Hi there 👋
+# My name is Dennis and i am several years of programming experience 
 
-## Hello my name is Dennis and i am several years of programming experience
 
-🔭 Working on my IT Consultant business where i am a Software Developer
-🌱 I’m currently learning and growing always and very passionate about improving my skills 🔧
-👯 I’m looking to collaborate on anything that has to do with programming 🔥
-🤔 I’m looking for help with anything conserning programming, solving complex programming logic or to make a design to a webb-site
-💬 Feel free to contakt me!
-📫 denniskarlsszon1998@gmail.com
+
+💻  Working on my IT Consultant business where i am a Software Developer
+
+🌱  I’m currently learning and growing always and very passionate about improving my skills 🔧
+
+👯  I’m looking to collaborate on anything that has to do with programming 🔥
+
+👷  I’m looking for help with anything conserning programming, solving complex programming logic or to make a design to a webb-site
+
+📫  denniskarlsszon1998@gmail.com
