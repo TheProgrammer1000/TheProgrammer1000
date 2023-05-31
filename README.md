@@ -1,8 +1,8 @@
-# My name is Dennis and i am several years of programming experience 
+# My name is Dennis and i have several years of programming experience 💻
 
 
 
-💻  Working on my IT Consultant business where i am a Software Developer
+👨‍💻  Working on my IT Consultant business where i am a Software Developer
 
 🌱  I’m currently learning and growing always and very passionate about improving my skills 🔧
 
