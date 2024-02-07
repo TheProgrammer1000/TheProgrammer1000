@@ -6,4 +6,4 @@ I’m looking to collaborate on anything that has to do with programming 🔥
 
 👷  I’m looking for help with anything conserning programming, solving complex programming logic or to make a design to a webb-site
 
-📫  denniskarlsszon1998@gmail.com
+📫  denniskarlssontech@gmail.com
